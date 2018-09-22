@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "gh-pages": "^2.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "deploy": "gh-pages -d build"
   },
