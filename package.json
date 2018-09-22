@@ -10,10 +10,6 @@
   "scripts": {
     "deploy": "gh-pages -d build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/johansundstrom/myappwebsite.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
