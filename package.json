@@ -13,10 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/johansundstrom/myappwebsite#readme",
-  "bugs": {
-    "url": "https://github.com/johansundstrom/myappwebsite/issues"
-  },
+  "homepage": "https://git.be9.se",
   "dependencies": {
     "gh-pages": "^2.0.0"
   },
