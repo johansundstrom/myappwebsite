@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "deploy": "gh-pages -d build"
   },
@@ -13,9 +17,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://git.be9.se",
-  "dependencies": {
-    "gh-pages": "^2.0.0"
-  },
-  "devDependencies": {}
+  "homepage": "https://git.be9.se"
 }
