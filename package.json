@@ -1,0 +1,24 @@
+{
+  "name": "myappwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johansundstrom/myappwebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://git.be9.se", 
+  "bugs": {
+    "url": "https://github.com/johansundstrom/myappwebsite/issues"
+  },
+  "homepage": "https://github.com/johansundstrom/myappwebsite#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
